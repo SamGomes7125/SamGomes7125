@@ -5,6 +5,7 @@
 I build AI systems that run in real workflows, not just in notebooks: agent pipelines, MCP integrations, and ML models shipped as working products.
 
 - 🔬 **AI Research Engineer at CSIRO**: connecting an LLM coding agent to COMSOL Multiphysics through a custom **Model Context Protocol (MCP)** server to automate thermoelectric simulation setup for EV motor design
+- 🤖 **AI Engineering Intern at V2 AI**: rebuilding an agentic system from a real client project, with my approach reviewed by their engineers
 - 🛠️ Building at [**Atikum-AI**](https://github.com/Atikum-AI)
 - 🎓 Microsoft Azure AI Fundamentals (AI-900) · Anthropic *Introduction to MCP* · ActiveLoop *LangChain & Vector Databases in Production*
 
